@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cookietest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>cookietest</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="cookietest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cookietest:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="kaptcha-2.3.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

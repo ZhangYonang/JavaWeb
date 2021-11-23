@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cookietest:war">
+    <output-path>$PROJECT_DIR$/cookietest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>cookietest</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="${project.artifactId}-${project.version}.war">
+      <element id="artifact" artifact-name="cookietest:war exploded" />
+    </root>
+  </artifact>
+</component>

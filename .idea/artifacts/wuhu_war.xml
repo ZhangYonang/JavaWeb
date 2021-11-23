@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wuhu:war">
+    <output-path>$PROJECT_DIR$/wuhu/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>wuhu</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="${project.artifactId}-${project.version}.war">
+      <element id="artifact" artifact-name="wuhu:war exploded" />
+    </root>
+  </artifact>
+</component>

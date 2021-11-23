@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="login (1)" />
+        <module name="jsp" />
+        <module name="EL" />
+        <module name="book" />
+        <module name="listener" />
+        <module name="book (1)" />
+        <module name="fistspring5" />
+        <module name="login" />
+        <module name="demo" />
+        <module name="test1" />
+        <module name="cart" />
+        <module name="filter" />
+        <module name="websqltest" />
+        <module name="cookietest" />
+        <module name="servlet1" />
+        <module name="wuhu" />
+        <module name="user" />
+        <module name="demo1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book" target="1.8" />
+      <module name="book (1)" target="1.8" />
+      <module name="cart" target="1.8" />
+      <module name="cookietest" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo1" target="1.8" />
+      <module name="EL" target="1.8" />
+      <module name="filter" target="1.8" />
+      <module name="fistspring5" target="1.5" />
+      <module name="jsp" target="1.8" />
+      <module name="listener" target="1.8" />
+      <module name="login" target="1.8" />
+      <module name="login (1)" target="1.8" />
+      <module name="servlet1" target="1.8" />
+      <module name="test1" target="1.8" />
+      <module name="user" target="1.8" />
+      <module name="websqltest" target="1.8" />
+      <module name="wuhu" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

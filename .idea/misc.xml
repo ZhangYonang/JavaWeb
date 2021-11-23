@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/book" />
+    <file type="web" url="file://$PROJECT_DIR$/book1.0" />
+    <file type="web" url="file://$PROJECT_DIR$/cart" />
+    <file type="web" url="file://$PROJECT_DIR$/cookietest" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/EL" />
+    <file type="web" url="file://$PROJECT_DIR$/filter" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/listener" />
+    <file type="web" url="file://$PROJECT_DIR$/login" />
+    <file type="web" url="file://$PROJECT_DIR$/logincookie" />
+    <file type="web" url="file://$PROJECT_DIR$/num" />
+    <file type="web" url="file://$PROJECT_DIR$/servle/test1" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet1" />
+    <file type="web" url="file://$PROJECT_DIR$/user" />
+    <file type="web" url="file://$PROJECT_DIR$/websqltest" />
+    <file type="web" url="file://$PROJECT_DIR$/wuhu" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EL/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/num/pom.xml" />
+        <option value="$PROJECT_DIR$/book/pom.xml" />
+        <option value="$PROJECT_DIR$/cart/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/user/pom.xml" />
+        <option value="$PROJECT_DIR$/wuhu/pom.xml" />
+        <option value="$PROJECT_DIR$/login/pom.xml" />
+        <option value="$PROJECT_DIR$/filter/pom.xml" />
+        <option value="$PROJECT_DIR$/servle/test1/pom.xml" />
+        <option value="$PROJECT_DIR$/book1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/listener/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet1/pom.xml" />
+        <option value="$PROJECT_DIR$/cookietest/pom.xml" />
+        <option value="$PROJECT_DIR$/websqltest/pom.xml" />
+        <option value="$PROJECT_DIR$/fistspring5/pom.xml" />
+        <option value="$PROJECT_DIR$/logincookie/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

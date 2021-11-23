@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EL/EL.iml" filepath="$PROJECT_DIR$/EL/EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWeb.iml" filepath="$PROJECT_DIR$/.idea/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book1.0/book (1).iml" filepath="$PROJECT_DIR$/book1.0/book (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/cart.iml" filepath="$PROJECT_DIR$/cart/cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookietest/cookietest.iml" filepath="$PROJECT_DIR$/cookietest/cookietest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/num/demo1.iml" filepath="$PROJECT_DIR$/num/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter/filter.iml" filepath="$PROJECT_DIR$/filter/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fistspring5/fistspring5.iml" filepath="$PROJECT_DIR$/fistspring5/fistspring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listener/listener.iml" filepath="$PROJECT_DIR$/listener/listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logincookie/login (1).iml" filepath="$PROJECT_DIR$/logincookie/login (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet1/servlet1.iml" filepath="$PROJECT_DIR$/servlet1/servlet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servle/test1/test1.iml" filepath="$PROJECT_DIR$/servle/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websqltest/websqltest.iml" filepath="$PROJECT_DIR$/websqltest/websqltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuhu/wuhu.iml" filepath="$PROJECT_DIR$/wuhu/wuhu.iml" />
+    </modules>
+  </component>
+</project>
